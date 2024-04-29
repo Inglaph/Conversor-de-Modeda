@@ -1,0 +1,14 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "gson".(ò—Í­üÿÿÿÿ
+Q
+java:S1854";Remove this useless assignment to local variable "monedas".(ÁÃ¤Ý
+B
+java:S1481",Remove this unused "monedas" local variable.(ÁÃ¤Ý
+D
+java:S1481")Remove this unused "gson" local variable.(ò—Í­üÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(âð†ý
+E	java:S106 "+Replace this use of System.out by a logger.(ÈÏï¤øÿÿÿÿ
+@	java:S106""+Replace this use of System.out by a logger.(·ˆ˜¬
+E	java:S106$"+Replace this use of System.out by a logger.(ÒÂÔ‡ùÿÿÿÿ
+E	java:S106%"+Replace this use of System.out by a logger.(©þêÜúÿÿÿÿ

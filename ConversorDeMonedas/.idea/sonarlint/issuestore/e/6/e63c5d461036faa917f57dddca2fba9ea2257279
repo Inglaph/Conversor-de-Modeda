@@ -1,0 +1,14 @@
+
+€
+java:S1854"8Remove this useless assignment to local variable "gson".(ò—Í­üÿÿÿÿ8¬ĞşÕò1J$f0c3d2be-0af7-4433-9bcc-b224e287f68d
+~
+java:S1854";Remove this useless assignment to local variable "monedas".(ÁÃ¤İ8¼ĞşÕò1J$22f34a2a-60c4-44b0-a6ea-89440e4ac971
+o
+java:S1481",Remove this unused "monedas" local variable.(ÁÃ¤İ8ÂĞşÕò1J$258039be-2b57-46c6-9282-51053eb2fde8
+q
+java:S1481")Remove this unused "gson" local variable.(ò—Í­üÿÿÿÿ8ÅĞşÕò1J$a2d84dde-1a9c-49de-8fce-439d40e20fed
+r	java:S106"+Replace this use of System.out by a logger.(º©ãÃùÿÿÿÿ8ÇĞşÕò1J$df3a0e25-9b0d-4477-9548-0dd5e8cb6c34
+r	java:S106""+Replace this use of System.out by a logger.(È¢øÅÿÿÿÿÿ8ÇĞşÕò1J$78d161ae-c934-4e6f-9356-eb26565c63e9
+r	java:S106#"+Replace this use of System.out by a logger.(Öª±×úÿÿÿÿ8ÇĞşÕò1J$b3d4455d-a440-4651-978f-afbe80fcf114
+r	java:S106%"+Replace this use of System.out by a logger.(ÒÂÔ‡ùÿÿÿÿ8ÈĞşÕò1J$d40651a5-0763-40ec-9524-76f5ce9180a8
+r	java:S106&"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8ÈĞşÕò1J$928e3e79-1932-4710-92da-b6c4102313a6
